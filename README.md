@@ -1,4 +1,6 @@
-# Supervised Learning with Scikit Learn template
+# Regression with SciKit Learn
+
+This goes alongside the blog post ["Regression With Scikit Learn"](https://blog.dennisokeeffe.com/blog/2021-08-16-regression-with-scikit-learn).
 
 This kit expects that you're using Conda (although other package managers and virtual environment managers are fine).
 
